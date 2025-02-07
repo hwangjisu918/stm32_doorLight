@@ -47,6 +47,7 @@ void app(){
 		else if(distance > 5)	{
 			count_time--;
 		}
+		// 컬러 브랜치 입니다.
 
 		if (count_time == 0)
 		{
