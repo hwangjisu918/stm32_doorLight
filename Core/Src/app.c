@@ -52,7 +52,7 @@ void app(){
 		{
 			HAL_GPIO_WritePin(GPIOA, LED_Pin, 0);
 		}
-		HAL_Delay(90);
+		HAL_Delay(95);
 
 	}
 }
